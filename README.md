@@ -1,5 +1,5 @@
 <p align="left">
-  <h1 align="left">👩🏻‍💻 Wender da Silva Santos</h1>
+  <h1 align="left">👨‍💻 Wender da Silva Santos</h1>
 </p>
 
 
