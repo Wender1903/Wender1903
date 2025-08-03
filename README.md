@@ -2,10 +2,6 @@
   <h1 align="left">👨‍💻 Wender da Silva Santos</h1>
 </p>
 
-
-
-
-
 **`Desenvolvedor FullStack`**
 
 [![Estudante ADS](https://img.shields.io/badge/Estudante-ADS-0f172a?style=for-the-badge&logo=bookstack&logoColor=00eaff)]()
@@ -20,7 +16,7 @@
             src="https://custom-icon-badges.demolab.com/github/followers/Wender1903?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-        <a href="https://github.com/Wender1903?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Wender1903?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -28,7 +24,6 @@
         />
     </a>
 </p>
-
 
 <p style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">
   Olá Pessoal tudo bem? Sejam bem-vindos ao meu perfil do GitHub😊
@@ -41,9 +36,6 @@
 <p style="font-family: Arial, sans-serif; font-size: 18px; font-weight: normal;">
   Sou apaixonado por programação e amo resolver desafios com códigos. Estou sempre em busca de aprender e desenvolver minhas habilidades e evoluir como desenvolvedor full stack
 </p>
-
-
-
 
 ---
 
@@ -77,7 +69,6 @@
 <br> 
 <br>
 
-
 <img 
     align="left" 
     alt="Python" 
@@ -94,7 +85,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SQL" 
@@ -107,7 +97,6 @@
 <br>
 <br>
 <br>
-
 
 <img 
     align="left" 
@@ -138,7 +127,6 @@
 <br>
 <br>
 
-
 <img 
     align="left" 
     alt="Git" 
@@ -165,7 +153,17 @@
 />
 <br/>
 <br/>
-<br>
+<br/>
+
+---
+
+### 🚀 Principais Projetos
+
+- 🏎️ **[Site sobre Fórmula (em andamento) 1](https://rednew-f1.vercel.app/)**  
+  Projeto Sobre F1, Pilotos, Equipes, Regras, Momentos históricosetc.  
+  **Tecnologias:** `SASS`, `JavaScript`
+
+---
 
 ### 📊 Estatísticas
 
@@ -182,7 +180,4 @@
     style="padding: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Wender1903&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-
 </div>
-
