@@ -30,16 +30,18 @@
 </p>
 
 <p style="font-family: Arial, sans-serif; font-size: 18px; font-weight: normal;">
-  Me chamo Wender da Silva Santos, tenho 19 anos e moro na capital de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia
+  Me chamo Wender da Silva Santos, tenho 20 anos e moro na capital de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia, atualmente no 4º Semestre
 </p>
 
 <p style="font-family: Arial, sans-serif; font-size: 18px; font-weight: normal;">
-  Sou apaixonado por programação e amo resolver desafios com códigos. Estou sempre em busca de aprender e desenvolver minhas habilidades e evoluir como desenvolvedor full stack
+  Sou apaixonado por programação e amo resolver desafios com códigos. Estou sempre em busca de aprender e desenvolver minhas habilidades e evoluir como Desenvolvedor Web/Mobile Full Stack (meu principal objetivo de carreira atualmente), mas planejo um dia dar aulas, seja de programação ou outra matéria
 </p>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+#### 🖥️ Front-End
 <img 
     align="left" 
     alt="HTML"
@@ -64,11 +66,34 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind"
+    title="Tailwind"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
 
-<br>
-<br> 
-<br>
+<br><br>
 
+#### ⚙️ Back-End
 <img 
     align="left" 
     alt="Python" 
@@ -93,48 +118,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-<br>
-<br>
-<br>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
-<br>
-<br>
-<br>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
 <img 
     align="left" 
     alt="Docker" 
@@ -143,6 +126,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+
+
+<br><br>
+
+#### 📱 Desenvolvimento Mobile
 <img 
     align="left" 
     alt="Kotlin" 
@@ -151,6 +139,30 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
+<br><br>
+
+#### 🎨 Design
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<br><br>
+
+#### 🔧 Outras Tecnologias
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
 <br/>
 <br/>
 <br/>
@@ -159,9 +171,17 @@
 
 ### 🚀 Principais Projetos
 
-- 🏎️ **[Site sobre Fórmula (em andamento) 1](https://rednew-f1.vercel.app/)**  
-  Projeto Sobre F1, Pilotos, Equipes, Regras, Momentos históricosetc.  
-  **Tecnologias:** `SASS`, `JavaScript`
+- 🏎️ **[Site sobre Fórmula 1 (em andamento) | Desenvolvido Individualmente](https://github.com/Wender1903/REDNEW-F1)**  
+  Projeto sobre F1, Pilotos, Equipes, Regras, Momentos históricos, etc.  <br>
+  --- **Tecnologias:** `SASS`, `JavaScript`
+
+- 💻 **[API REST em Python com Flask (finalizado)| Desenvolvimento feito em Grupo](https://github.com/LarissaPiresDev/API---School-System)**  
+  API RESTful com CRUD de professor, aluno e turma, com dois microserviços (reserva de sala e criação de atividades), dockerizada, com TDD, Swagger e separada em modelo MVC, e usando versionamento de código pelo GitHub. <br>
+  --- **Tecnologias:** `Python`, `Flask`, `Docker`, `Swagger`, `TDD`
+
+- 📱 **[ThinkUP (parado atualmente)  | Desenvolvimento feito em Grupo](https://github.com/LarissaPiresDev/ThinkUp-)**  
+  Projeto feito em Kotlin com o objetivo de ajudar estudantes de ensino médio a se prepararem para vestibulares como ENEM e FATEC de forma divertida, similar ao Duolingo.<br>
+  --- **Tecnologias:** `Kotlin`, `Android`
 
 ---
 
