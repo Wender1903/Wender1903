@@ -188,8 +188,9 @@
 ### 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wender1903&bg_color=0d1117&color=1f6feb&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wender1903&days=365&bg_color=0d1117&color=1f6feb&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
 </div>
+
 
 
 <div align="left">
@@ -199,10 +200,10 @@
     style="padding: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wender1903&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Wender1903&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Wender1903&show_icons=true&theme=tokyonight&locale=pt-br"
+  alt="GitHub Stats"
+  height="200"
+/>
+
 </div>
