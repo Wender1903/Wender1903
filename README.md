@@ -188,6 +188,11 @@
 ### 📊 Estatísticas
 
 <div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wender1903&bg_color=0d1117&color=1f6feb&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" />
+</div>
+
+
+<div align="left">
   <img 
     alt="Top Langs" 
     height="200" 
